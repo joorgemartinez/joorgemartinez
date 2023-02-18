@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jorge Martínez</h1>
 
 
-- 🌱 I'm currently studying a Master of Big Data at <a href="https://edem.eu/master-big-data-analytics/"> <img src="https://cdn.shopify.com/s/files/1/0627/2611/1408/files/edem_shop_logo.png?v=1665999354"  width="55" height="14"></a>
+- 🌱 I am currently studying a Master of Big Data at <a href="https://edem.eu/master-big-data-analytics/"> <img src="https://cdn.shopify.com/s/files/1/0627/2611/1408/files/edem_shop_logo.png?v=1665999354"  width="55" height="14"></a>
 
 - 📚 I am a graduate in International Business from the University of Valencia.
 
