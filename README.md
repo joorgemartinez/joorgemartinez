@@ -1,31 +1,75 @@
-<h1 align="center">Hi 👋, I'm Jorge Martínez</h1>
+# 👋 ¡Hola! Soy Jorge Martínez
 
+Soy un profesional con formación en **Negocios Internacionales** y un **Máster en Big Data**, con experiencia en el ámbito comercial y actualmente enfocado en el análisis de datos y la toma de decisiones basada en evidencia.
 
-- 🌱 I am currently studying a Master of Big Data at <a href="https://edem.eu/master-big-data-analytics/"> <img src="https://cdn.shopify.com/s/files/1/0627/2611/1408/files/edem_shop_logo.png?v=1665999354"  width="55" height="14"></a>
-
-- 📚 I am a graduate in International Business from the University of Valencia.
-
-- 📫 You can reach me by [mail](martinezca.jorge@gmail.com)
 ---
 
+## 🚀 En transición hacia el mundo del Análisis de Datos
 
-## Languages and Tools </h3>
-<p align="center"> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="50"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="50"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="50" height="50"/> </a><a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a>  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="50" height="50"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> </a>  <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Apache_Spark_logo.svg/2560px-Apache_Spark_logo.svg.png" alt="azure" width="85" height="50"/> </a><a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://swimburger.net/media/ppnn3pcl/azure.png" alt="spark" width="50" height="50"/> </a></p>
+A lo largo de mi carrera he explorado diferentes áreas del mundo empresarial — desde la estrategia hasta las ventas.  
+Últimamente he descubierto que lo que realmente me apasiona es **entender el comportamiento de los datos y convertir los insights en acciones con impacto.**
 
+Por eso he comenzado a profundizar en herramientas como Python, SQL, Power BI y Git, construyendo proyectos prácticos que combinan análisis, lógica de negocio y storytelling.
 
---- 
-## Check my Stats ⚡
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joorgemartinez&theme=gotham&show_icons=true)
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joorgemartinez&theme=gotham)](https://github.com/joorgemartinez/github-readme-stats)
+## 🧠 Lo que me motiva:
 
+- Traducir conjuntos de datos complejos en insights de valor para el negocio  
+- Conectar el mundo de la tecnología con la estrategia empresarial  
+- Aprender rápido y adaptarme a nuevos entornos  
+- Mezclar mis múltiples intereses en proyectos con impacto real
 
---- 
+---
 
-## Connect with me
-<p align="left">
-<a href="https://linkedin.com/in/jorgemart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jorgemart" height="40" width="50" /></a>
+## 🛠️ Tecnologías y herramientas que utilizo:
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="SQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="Pandas" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="NumPy" />
+  <img src="https://img.icons8.com/color/40/000000/power-bi.png" height="40" alt="Power BI" />
+  <img src="https://img.icons8.com/color/40/000000/tableau-software.png" height="40" alt="Tableau" />
 </p>
 
 ---
-<h2  align="center">💻 Check Out My Repos ⬇️ </h2>
+
+## 📂 Proyectos destacados
+
+Aquí iré subiendo algunos de los proyectos que estoy construyendo mientras me formo como analista de datos.  
+Estoy priorizando calidad sobre cantidad, y cada uno tiene un enfoque estratégico claro.
+
+| Proyecto | Descripción | Herramientas |
+|----------|-------------|--------------|
+| [📊 Análisis de E-commerce](#) | Análisis del comportamiento de clientes y productos usando datos reales de un e-commerce brasileño. | Python, Pandas, Power BI |
+| [🚲 Predicción de uso de bicicletas](#) *(Próximamente)* | Predicción de la demanda de bicicletas según datos meteorológicos. | Python, Scikit-learn |
+| [📈 Dashboard de KPIs](#) *(En desarrollo)* | Construcción de un dashboard para visualizar indicadores clave de ventas. | Power BI |
+
+---
+
+## ⚡ Estadísticas de GitHub
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joorgemartinez&theme=gotham&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joorgemartinez&theme=gotham)](https://github.com/joorgemartinez/github-readme-stats)
+
+---
+
+## 📫 Contacto
+
+<p align="left">
+  <a href="mailto:martinezca.jorge@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="Email icon"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/joorgemartinez" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn icon"/>
+  </a>
+</p>
+
+---
+
+**Gracias por visitar mi perfil. Estoy construyendo mi camino con curiosidad, datos y propósito.**
