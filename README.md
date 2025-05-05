@@ -65,7 +65,7 @@ Estoy priorizando calidad sobre cantidad, y cada uno tiene un enfoque estratégi
     <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="Email icon"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/joorgemartinez" target="_blank">
+  <a href="https://www.linkedin.com/in/jorgemart/" target="_blank">
     <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn icon"/>
   </a>
 </p>
