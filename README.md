@@ -62,7 +62,7 @@ Estoy priorizando calidad sobre cantidad, y cada uno tiene un enfoque estratégi
 
 <p align="left">
   <a href="mailto:martinezca.jorge@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/30/ffffff/gmail.png" alt="Email icon"/>
+    <img src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="27" alt="Email icon"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jorgemart/" target="_blank">
