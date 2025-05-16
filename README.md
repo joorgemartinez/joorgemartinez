@@ -45,7 +45,7 @@ Estoy priorizando calidad sobre cantidad, y cada uno tiene un enfoque estratégi
 
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
-| [📊 Análisis de E-commerce](#) | Análisis del comportamiento de clientes y productos usando datos reales de un e-commerce brasileño. | Python, Pandas, Power BI |
+| [📊 Análisis de E-commerce](#) | Análisis del comportamiento de clientes y productos usando datos reales de un e-commerce. | Python, Pandas, Power BI |
 | [🚲 Predicción de uso de bicicletas](#) *(Próximamente)* | Predicción de la demanda de bicicletas según datos meteorológicos. | Python, Scikit-learn |
 | [📈 Dashboard de KPIs](#) *(En desarrollo)* | Construcción de un dashboard para visualizar indicadores clave de ventas. | Power BI |
 
