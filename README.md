@@ -40,14 +40,9 @@ Por eso he comenzado a profundizar en herramientas como Python, SQL, Power BI y 
 
 ## 📂 Proyectos destacados
 
-Aquí iré subiendo algunos de los proyectos que estoy construyendo mientras me formo como analista de datos.  
-Estoy priorizando calidad sobre cantidad, y cada uno tiene un enfoque estratégico claro.
-
 | Proyecto | Descripción | Herramientas |
 |----------|-------------|--------------|
-| [📊 Análisis de E-commerce](#) | Análisis del comportamiento de clientes y productos usando datos reales de un e-commerce. | Python, Pandas, Power BI |
-| [🚲 Predicción de uso de bicicletas](#) *(Próximamente)* | Predicción de la demanda de bicicletas según datos meteorológicos. | Python, Scikit-learn |
-| [📈 Dashboard de KPIs](#) *(En desarrollo)* | Construcción de un dashboard para visualizar indicadores clave de ventas. | Power BI |
+| [🌦️ Weather Data Pipeline](https://github.com/joorgemartinez/weather-data-pipeline) | Pipeline de datos que consulta el clima de varias ciudades desde una API, lo transforma y lo almacena en una estructura estilo data lake en formato CSV. | Python, Pandas, requests, dotenv |
 
 ---
 
