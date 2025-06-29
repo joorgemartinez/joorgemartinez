@@ -1,24 +1,18 @@
 # 👋 ¡Hola! Soy Jorge Martínez
 
-Soy un profesional con formación en **Negocios Internacionales** y un **Máster en Big Data**, con experiencia en el ámbito comercial y actualmente enfocado en el análisis de datos y la toma de decisiones basada en evidencia.
+Después de varios años trabajando en negocio y ventas, decidí dar el salto al mundo de los datos.  
+Estudié **Negocios Internacionales en la Universitat de València**, y más adelante completé un **Máster en Big Data en EDEM Escuela de Empresarios**, donde me introduje en herramientas como Python, SQL, Spark o Power BI.
+
+Actualmente me estoy enfocando en desarrollar habilidades como **Data Engineer**, practicando a diario con proyectos personales que simulan procesos reales de extracción, transformación y carga de datos.
 
 ---
 
-## 🚀 En transición hacia el mundo del Análisis de Datos
+## 🎯 Qué me interesa del mundo de los datos
 
-A lo largo de mi carrera he explorado diferentes áreas del mundo empresarial — desde la estrategia hasta las ventas.  
-Últimamente he descubierto que lo que realmente me apasiona es **entender el comportamiento de los datos y convertir los insights en acciones con impacto.**
-
-Por eso he comenzado a profundizar en herramientas como Python, SQL, Power BI y Git, construyendo proyectos prácticos que combinan análisis, lógica de negocio y storytelling.
-
----
-
-## 🧠 Lo que me motiva:
-
-- Traducir conjuntos de datos complejos en insights de valor para el negocio  
-- Conectar el mundo de la tecnología con la estrategia empresarial  
-- Aprender rápido y adaptarme a nuevos entornos  
-- Mezclar mis múltiples intereses en proyectos con impacto real
+- Automatizar tareas repetitivas con código
+- Construir pipelines que conecten datos desde el origen hasta su análisis
+- Convertir datos crudos en algo útil y bien estructurado
+- Aplicar una mentalidad de negocio a la hora de diseñar soluciones técnicas
 
 ---
 
