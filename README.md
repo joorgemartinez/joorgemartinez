@@ -32,14 +32,7 @@ Actualmente me estoy enfocando en desarrollar habilidades como **Data Engineer**
 
 ---
 
-## 📂 Proyectos destacados
 
-| Proyecto | Descripción | Herramientas |
-|----------|-------------|--------------|
-| [🌦️ Weather Data Pipeline](https://github.com/joorgemartinez/weather-data-pipeline) | Pipeline de datos que consulta el clima de varias ciudades desde una API, lo transforma y lo almacena en una estructura estilo data lake en formato CSV. | Python, Pandas, requests, dotenv |
- [🚌 Valencia Bus Stops](https://github.com/joorgemartinez/Valencia-Public-Transport) | Extracción y visualización de las paradas de autobús de Valencia desde la API pública EMT. Incluye análisis y mapa interactivo. | Python, Pandas, Folium, API REST |
-
----
 
 ## ⚡ Estadísticas de GitHub
 
