@@ -5,7 +5,7 @@
 ## 🧑‍💻 Sobre mí  
 
 - 💻 **Data Engineer**  
-- 🎓 **Máster en Big Data & Analytics** – EDEM Escuela de Empresarios
+- 🎓 **Máster en Big Data en [EDEM](https://edem.eu/master-big-data-analytics/)**
 - 🎓 **Grado en International Business** – Universidad de Valencia
 
 ---
