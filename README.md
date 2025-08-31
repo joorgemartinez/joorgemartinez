@@ -49,7 +49,6 @@ Pipeline en **GCP** con **Dataflow** y **BigQuery** para procesar datos de clien
 ## ⚡ Estadísticas de GitHub
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joorgemartinez&theme=gotham&show_icons=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joorgemartinez&theme=gotham)](https://github.com/joorgemartinez/github-readme-stats)
 
 ---
 
