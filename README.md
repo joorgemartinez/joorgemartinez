@@ -46,11 +46,7 @@ Pipeline en **GCP** con **Dataflow** y **BigQuery** para procesar datos de clien
 ---
 
 
-## ⚡ Estadísticas de GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joorgemartinez&theme=gotham&show_icons=true)  
-
----
 
 ## 📫 Contacto
 
@@ -63,7 +59,3 @@ Pipeline en **GCP** con **Dataflow** y **BigQuery** para procesar datos de clien
     <img src="https://img.icons8.com/ios-filled/30/0A66C2/linkedin.png" alt="LinkedIn icon"/>
   </a>
 </p>
-
----
-
-**Gracias por visitar mi perfil. Estoy construyendo mi camino con curiosidad, datos y propósito.**
