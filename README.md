@@ -35,11 +35,12 @@ Desarrollo de una solución **end-to-end para monitorización IoT de paneles sol
 - **[NTTData-Behavsis](https://github.com/joorgemartinez/NTTData-Behavsis)**  
 Pipeline en **GCP** con **Dataflow** y **BigQuery** para procesar datos de clientes, productos y transacciones. Infraestructura gestionada con **Terraform**.  
 
-- **[Daily_Holded_Reports](https://github.com/joorgemartinez/Daily_Holded_Reports)**  
+- **[Daily Holded Reports](https://github.com/joorgemartinez/Daily_Holded_Reports)**  
   Script en **Python** que consulta la API de **Holded** para obtener los pedidos y facturas del día anterior, genera un **reporte en HTML** y lo envía automáticamente por email mediante **GitHub Actions**.
 
+- **[Holded Order Mailer](https://github.com/joorgemartinez/Holded_Order_Mailer)**  
+Script en **Python** que detecta pedidos de venta en **Holded** y envía automáticamente un **correo de reserva de material**. Funciona en **local** o de forma automática con **GitHub Actions**, evitando duplicados mediante un archivo de estado.
 
- 
 
 
 
